@@ -1,0 +1,11 @@
+D:\VisualStudio\Clase06\Clase06\bin\Debug\Clase06.exe.config
+D:\VisualStudio\Clase06\Clase06\bin\Debug\Clase06.exe
+D:\VisualStudio\Clase06\Clase06\bin\Debug\Clase06.pdb
+D:\VisualStudio\Clase06\Clase06\obj\Debug\Clase06.Properties.Resources.resources
+D:\VisualStudio\Clase06\Clase06\obj\Debug\Clase06.csproj.GenerateResource.cache
+D:\VisualStudio\Clase06\Clase06\obj\Debug\Clase06.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Clase06\Clase06\obj\Debug\Clase06.exe
+D:\VisualStudio\Clase06\Clase06\obj\Debug\Clase06.pdb
+D:\VisualStudio\Clase06\Clase06\obj\Debug\Clase06.frmPrincipal.resources
+D:\VisualStudio\Clase06\Clase06\obj\Debug\Clase06.FrmPantallaDos.resources
+D:\VisualStudio\Clase06\Clase06\obj\Debug\Clase06.csprojAssemblyReference.cache
